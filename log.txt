@@ -1,0 +1,7 @@
+2019-10-06 21:02:02.615 +03:00 [INF] VLNv3CgDHORnISJHR3GsEw send message was "уеые", it was translated into "уеые" to topic "еуые"
+2019-10-06 21:02:10.363 +03:00 [INF] Jjw_SO8gFkjpMxos43ToXA send message was "укук", it was translated into "укук" to topic "еуые"
+2019-10-06 21:04:46.154 +03:00 [INF] gIpLyc_ccADSXPlE4n_TTg send message was "rus anime", it was translated into "russian anime" to topic "rus"
+2019-10-06 21:04:54.317 +03:00 [INF] NCiOyC7vWwRnju4_GGezfg send message was "rus", it was translated into "russian" to topic "anime"
+2019-10-06 21:04:56.527 +03:00 [INF] gIpLyc_ccADSXPlE4n_TTg send message was "rus anime", it was translated into "russian anime" to topic "rus"
+2019-10-06 21:04:59.985 +03:00 [INF] gIpLyc_ccADSXPlE4n_TTg send message was "rus anime", it was translated into "russian anime" to topic "rus"
+2019-10-06 21:05:04.446 +03:00 [INF] NCiOyC7vWwRnju4_GGezfg send message was "test", it was translated into "test" to topic "anime"

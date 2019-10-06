@@ -1,0 +1,79 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/kanoni/RiderProjects/MessageBroker/MessageBroker/MessageBroker.csproj",
+    "projectName": "MessageBroker",
+    "projectPath": "/Users/kanoni/RiderProjects/MessageBroker/MessageBroker/MessageBroker.csproj",
+    "outputPath": "/Users/kanoni/RiderProjects/MessageBroker/MessageBroker/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/kanoni/RiderProjects/MessageBroker/App/App.csproj": {
+            "projectPath": "/Users/kanoni/RiderProjects/MessageBroker/App/App.csproj"
+          },
+          "/Users/kanoni/RiderProjects/MessageBroker/Persistence/Persistence.csproj": {
+            "projectPath": "/Users/kanoni/RiderProjects/MessageBroker/Persistence/Persistence.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Serilog.AspNetCore": {
+          "target": "Package",
+          "version": "[3.0.1-dev-00116, )"
+        },
+        "Serilog.Extensions.Logging": {
+          "target": "Package",
+          "version": "[3.0.2-dev-10260, )"
+        },
+        "Serilog.Sinks.File": {
+          "target": "Package",
+          "version": "[4.1.0-dev-00850, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

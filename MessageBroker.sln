@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker", "MessageBroker\MessageBroker.csproj", "{A201FCF4-8692-4064-8C83-D681DC34CFDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{743C99AA-3810-450F-B298-FB096309FDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{98DE78E8-FBCD-400A-9E82-3132188D3B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A201FCF4-8692-4064-8C83-D681DC34CFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A201FCF4-8692-4064-8C83-D681DC34CFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A201FCF4-8692-4064-8C83-D681DC34CFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A201FCF4-8692-4064-8C83-D681DC34CFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743C99AA-3810-450F-B298-FB096309FDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743C99AA-3810-450F-B298-FB096309FDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743C99AA-3810-450F-B298-FB096309FDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743C99AA-3810-450F-B298-FB096309FDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DE78E8-FBCD-400A-9E82-3132188D3B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DE78E8-FBCD-400A-9E82-3132188D3B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DE78E8-FBCD-400A-9E82-3132188D3B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DE78E8-FBCD-400A-9E82-3132188D3B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

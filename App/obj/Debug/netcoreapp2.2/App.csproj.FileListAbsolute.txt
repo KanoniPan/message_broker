@@ -1,0 +1,12 @@
+/Users/kanoni/RiderProjects/MessageBroker/App/bin/Debug/netcoreapp2.2/App.deps.json
+/Users/kanoni/RiderProjects/MessageBroker/App/bin/Debug/netcoreapp2.2/App.dll
+/Users/kanoni/RiderProjects/MessageBroker/App/bin/Debug/netcoreapp2.2/App.pdb
+/Users/kanoni/RiderProjects/MessageBroker/App/bin/Debug/netcoreapp2.2/Persistence.dll
+/Users/kanoni/RiderProjects/MessageBroker/App/bin/Debug/netcoreapp2.2/Persistence.pdb
+/Users/kanoni/RiderProjects/MessageBroker/App/obj/Debug/netcoreapp2.2/App.csprojAssemblyReference.cache
+/Users/kanoni/RiderProjects/MessageBroker/App/obj/Debug/netcoreapp2.2/App.csproj.CoreCompileInputs.cache
+/Users/kanoni/RiderProjects/MessageBroker/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/Users/kanoni/RiderProjects/MessageBroker/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.cs
+/Users/kanoni/RiderProjects/MessageBroker/App/obj/Debug/netcoreapp2.2/App.csproj.CopyComplete
+/Users/kanoni/RiderProjects/MessageBroker/App/obj/Debug/netcoreapp2.2/App.dll
+/Users/kanoni/RiderProjects/MessageBroker/App/obj/Debug/netcoreapp2.2/App.pdb

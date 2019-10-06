@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d78e2878-ec6b-4afb-8999-fe5d0a4a5f2e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Persistence/DBSettings/DBSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <marker date="1570190262698" expanded="true" signature="32:294" ph="{...}" />
+                <marker date="1570190262698" expanded="true" signature="76:292" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MessageBroker/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MessageBroker/MessageBroker.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MessageBroker/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Persistence/IDbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <marker date="1570189998505" expanded="true" signature="6:49" ph="..." />
+                <marker date="1570189998505" expanded="true" signature="72:234" ph="{...}" />
+                <marker date="1570189998505" expanded="true" signature="106:232" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Persistence/DbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+              <folding>
+                <marker date="1570202158627" expanded="false" signature="6:79" ph="..." />
+                <marker date="1570202158627" expanded="true" signature="102:648" ph="{...}" />
+                <marker date="1570202158627" expanded="true" signature="144:646" ph="{...}" />
+                <marker date="1570202158627" expanded="true" signature="326:640" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MessageBroker/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding>
+                <marker date="1570384616811" expanded="false" signature="6:270" ph="..." />
+                <marker date="1570384616811" expanded="true" signature="295:824" ph="{...}" />
+                <marker date="1570384616811" expanded="true" signature="322:822" ph="{...}" />
+                <marker date="1570384616811" expanded="true" signature="375:617" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MessageBroker/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="40" column="94" selection-start-line="40" selection-start-column="84" selection-end-line="40" selection-end-column="94" />
+              <folding>
+                <marker date="1570382678886" expanded="false" signature="6:434" ph="..." />
+                <marker date="1570382678886" expanded="true" signature="459:2455" ph="{...}" />
+                <marker date="1570382678886" expanded="true" signature="486:2453" ph="{...}" />
+                <marker date="1570382678886" expanded="true" signature="600:663" ph="{...}" />
+                <marker date="1570382678886" expanded="true" signature="672:887" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1570382678886" expanded="true" signature="954:1930" ph="{...}" />
+                <marker date="1570382678886" expanded="true" signature="1017:1275" ph="{...}" />
+                <marker date="1570382678886" expanded="true" signature="2118:2447" ph="{...}" />
+                <marker date="1570382678886" expanded="true" signature="2165:2242" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MessageBroker/Hubs/ChatHub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-289">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <marker date="1570383592297" expanded="true" signature="6:227" ph="..." />
+                <marker date="1570383592297" expanded="true" signature="257:3002" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="290:3000" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="719:943" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="1038:1852" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="1362:1449" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="1903:2636" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="2037:2231" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="2305:2405" ph="{...}" />
+                <marker date="1570383592297" expanded="true" signature="2721:2985" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Persistence/DBSettings/IDBSettings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <marker date="1570190262695" expanded="true" signature="32:257" ph="{...}" />
+                <marker date="1570190262695" expanded="true" signature="67:255" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Me</find>
+      <find>ConnectionString</find>
+      <find>Configuration</find>
+      <find>Datab</find>
+      <find>SubscriptionsName</find>
+      <find>MessagesName</find>
+      <find>SubscriptionName</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Persistence/IDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistence/Entities/Subscription.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Hubs/ChatHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistence/DBSettings/IDBSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistence/DBSettings/DBSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistence/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Persistence/Entities/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/app.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/e0/56da0bda/Hub.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Interfaces/IMessageEnricher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Interfaces/IMessageService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Interfaces/ISubscriptionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Implementation/Implementation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MessageBroker/Interfaces/IContentBasedRouter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MessageBroker/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Persistence/Entities/Subscription.cs" />
+        <option value="$PROJECT_DIR$/Persistence/DBSettings/DBSettkng.cs" />
+        <option value="$PROJECT_DIR$/Persistence/IDbContext.cs" />
+        <option value="$PROJECT_DIR$/Persistence/DBSettings/IDBSettings.cs" />
+        <option value="$PROJECT_DIR$/Persistence/DBSettings/DBSettings.cs" />
+        <option value="$PROJECT_DIR$/Persistence/DbContext.cs" />
+        <option value="$PROJECT_DIR$/App/MessageService/IMessageService.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Interfaces/ISubscriptionService.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Interfaces/IMessageService.cs" />
+        <option value="$PROJECT_DIR$/Persistence/Persistence.csproj" />
+        <option value="$PROJECT_DIR$/App/App.csproj" />
+        <option value="$PROJECT_DIR$/MessageBroker/MessageBroker.csproj" />
+        <option value="$PROJECT_DIR$/Persistence/Entities/Message.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Interfaces/IMessageEnricher.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Interfaces/IContentBasedRouter.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Implementation/Implementation.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Startup.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Hubs/ChatHub.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/Program.cs" />
+        <option value="$PROJECT_DIR$/MessageBroker/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/MessageBroker/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Implementation" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Persistence" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="App" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Hubs" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Implementation" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Interfaces" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="~" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Persistence" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Persistence" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="DBSettings" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.MessageBroker">
+    <configuration name="MessageBroker" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/MessageBroker/MessageBroker.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="MessageBroker" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageBroker: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/MessageBroker/MessageBroker.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.MessageBroker" />
+      <item itemvalue=".NET Launch Settings Profile.MessageBroker: IIS Express" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78e2878-ec6b-4afb-8999-fe5d0a4a5f2e" name="Default Changelist" comment="" />
+      <created>1570183802558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570183802558</updated>
+      <workItem from="1570183803923" duration="12262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12262000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33547926" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="REST Client" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="NuGet" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.40843374" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Persistence/DBSettings/DBSettkng.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistence/Entities/Subscription.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1570189803545" expanded="false" signature="6:64" ph="..." />
+            <marker date="1570189803545" expanded="true" signature="96:339" ph="{...}" />
+            <marker date="1570189803545" expanded="true" signature="128:337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/MessageService/IMessageService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/share/dotnet/sdk/2.2.300/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="152" column="4" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/App.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistence/Entities/Message.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1570380706162" expanded="false" signature="6:64" ph="..." />
+            <marker date="1570380706162" expanded="true" signature="96:370" ph="{...}" />
+            <marker date="1570380706162" expanded="true" signature="123:368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Interfaces/ISubscriptionService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <marker date="1570203793796" expanded="true" signature="6:57" ph="..." />
+            <marker date="1570203793796" expanded="true" signature="93:271" ph="{...}" />
+            <marker date="1570203793796" expanded="true" signature="137:269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Interfaces/IMessageService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <marker date="1570203842746" expanded="true" signature="6:117" ph="..." />
+            <marker date="1570203842746" expanded="true" signature="153:308" ph="{...}" />
+            <marker date="1570203842746" expanded="true" signature="192:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Interfaces/IMessageEnricher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <marker date="1570381298300" expanded="true" signature="34:135" ph="{...}" />
+            <marker date="1570381298300" expanded="true" signature="74:133" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Interfaces/IContentBasedRouter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <marker date="1570381331749" expanded="true" signature="69:188" ph="{...}" />
+            <marker date="1570381331749" expanded="true" signature="112:186" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Implementation/Implementation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1570382220257" expanded="true" signature="6:221" ph="..." />
+            <marker date="1570382220257" expanded="true" signature="261:2973" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="374:2971" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="614:783" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="922:1130" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="996:1106" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1185:1241" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1318:1522" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1573:1656" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1712:1839" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1897:1990" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2035:2143" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2199:2587" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2451:2548" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2656:2965" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/~/Desktop/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/app.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistence/Persistence.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/e0/56da0bda/Hub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistence/DBSettings/DBSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1570190262698" expanded="true" signature="32:294" ph="{...}" />
+            <marker date="1570190262698" expanded="true" signature="76:292" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistence/IDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1570189998505" expanded="true" signature="6:49" ph="..." />
+            <marker date="1570189998505" expanded="true" signature="72:234" ph="{...}" />
+            <marker date="1570189998505" expanded="true" signature="106:232" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/MessageBroker.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="40" column="94" selection-start-line="40" selection-start-column="84" selection-end-line="40" selection-end-column="94" />
+          <folding>
+            <marker date="1570382678886" expanded="false" signature="6:434" ph="..." />
+            <marker date="1570382678886" expanded="true" signature="459:2455" ph="{...}" />
+            <marker date="1570382678886" expanded="true" signature="486:2453" ph="{...}" />
+            <marker date="1570382678886" expanded="true" signature="600:663" ph="{...}" />
+            <marker date="1570382678886" expanded="true" signature="672:887" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1570382678886" expanded="true" signature="954:1930" ph="{...}" />
+            <marker date="1570382678886" expanded="true" signature="1017:1275" ph="{...}" />
+            <marker date="1570382678886" expanded="true" signature="2118:2447" ph="{...}" />
+            <marker date="1570382678886" expanded="true" signature="2165:2242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <marker date="1570384616811" expanded="false" signature="6:270" ph="..." />
+            <marker date="1570384616811" expanded="true" signature="295:824" ph="{...}" />
+            <marker date="1570384616811" expanded="true" signature="322:822" ph="{...}" />
+            <marker date="1570384616811" expanded="true" signature="375:617" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistence/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+          <folding>
+            <marker date="1570202158627" expanded="false" signature="6:79" ph="..." />
+            <marker date="1570202158627" expanded="true" signature="102:648" ph="{...}" />
+            <marker date="1570202158627" expanded="true" signature="144:646" ph="{...}" />
+            <marker date="1570202158627" expanded="true" signature="326:640" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Hubs/ChatHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <marker date="1570383592297" expanded="true" signature="6:227" ph="..." />
+            <marker date="1570383592297" expanded="true" signature="257:3002" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="290:3000" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="719:943" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="1038:1852" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="1362:1449" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="1903:2636" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="2037:2231" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="2305:2405" ph="{...}" />
+            <marker date="1570383592297" expanded="true" signature="2721:2985" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Persistence/DBSettings/IDBSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <marker date="1570190262695" expanded="true" signature="32:257" ph="{...}" />
+            <marker date="1570190262695" expanded="true" signature="67:255" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

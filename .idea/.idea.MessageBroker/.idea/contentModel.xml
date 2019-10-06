@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_MessageBroker.-56697469.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="App" t="IncludeRecursive">
+        <e p="App.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MessageBroker" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Hubs" t="Include">
+          <e p="ChatHub.cs" t="Include" />
+        </e>
+        <e p="Implementation" t="Include">
+          <e p="Implementation.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IContentBasedRouter.cs" t="Include" />
+          <e p="IMessageEnricher.cs" t="Include" />
+          <e p="IMessageService.cs" t="Include" />
+          <e p="ISubscriptionService.cs" t="Include" />
+        </e>
+        <e p="MessageBroker.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MessageBroker.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="~" t="Include">
+          <e p="Desktop" t="Include">
+            <e p="log.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="MessageBroker.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Persistence" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DbContext.cs" t="Include" />
+        <e p="DBSettings" t="Include">
+          <e p="DBSettings.cs" t="Include" />
+          <e p="IDBSettings.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Message.cs" t="Include" />
+          <e p="Subscription.cs" t="Include" />
+        </e>
+        <e p="IDbContext.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Persistence.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Persistence.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

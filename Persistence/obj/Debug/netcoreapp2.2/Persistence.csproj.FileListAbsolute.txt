@@ -1,0 +1,9 @@
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/obj/Debug/netcoreapp2.2/Persistence.csprojAssemblyReference.cache
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/obj/Debug/netcoreapp2.2/Persistence.csproj.CoreCompileInputs.cache
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/obj/Debug/netcoreapp2.2/Persistence.AssemblyInfoInputs.cache
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/obj/Debug/netcoreapp2.2/Persistence.AssemblyInfo.cs
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/bin/Debug/netcoreapp2.2/Persistence.deps.json
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/bin/Debug/netcoreapp2.2/Persistence.dll
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/bin/Debug/netcoreapp2.2/Persistence.pdb
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/obj/Debug/netcoreapp2.2/Persistence.dll
+/Users/kanoni/RiderProjects/MessageBroker/Persistence/obj/Debug/netcoreapp2.2/Persistence.pdb
