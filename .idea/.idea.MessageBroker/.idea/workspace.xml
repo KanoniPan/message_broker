@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d78e2878-ec6b-4afb-8999-fe5d0a4a5f2e" name="Default Changelist" comment="" />
+    <list default="true" id="d78e2878-ec6b-4afb-8999-fe5d0a4a5f2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MessageBrokerFE/messagebroker" beforeDir="false" afterPath="$PROJECT_DIR$/MessageBrokerFE/messagebroker" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,19 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Persistence/DBSettings/DBSettings.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-              <folding>
-                <marker date="1570190262698" expanded="true" signature="32:294" ph="{...}" />
-                <marker date="1570190262698" expanded="true" signature="76:292" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MessageBroker/appsettings.Development.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,11 +30,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MessageBroker/appsettings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MessageBroker/Implementation/Implementation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-58">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <marker date="1570382220257" expanded="true" signature="6:221" ph="..." />
+                <marker date="1570382220257" expanded="true" signature="261:2973" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="374:2971" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="614:783" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="922:1130" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="996:1106" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="1185:1241" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="1318:1522" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="1573:1656" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="1712:1839" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="1897:1990" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="2035:2143" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="2199:2587" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="2451:2548" ph="{...}" />
+                <marker date="1570382220257" expanded="true" signature="2656:2965" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,6 +176,9 @@
       <find>SubscriptionName</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Persistence/IDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Persistence/Entities/Subscription.cs" root0="FORCE_HIGHLIGHTING" />
@@ -211,6 +229,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="FileSystemExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -220,33 +239,33 @@
         <subPane>
           <expand>
             <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
               <item name="App" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Implementation" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MessageBroker" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Persistence" type="24d0babc:SolutionExplorerModelNode" />
             </path>
@@ -259,50 +278,50 @@
         <subPane>
           <expand>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="App" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="Hubs" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="Implementation" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="Interfaces" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="~" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="Persistence" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="MessageBroker" type="34e6ba20:FileSystemExplorerNode" />
               <item name="Persistence" type="34e6ba20:FileSystemExplorerNode" />
               <item name="DBSettings" type="34e6ba20:FileSystemExplorerNode" />
@@ -379,12 +398,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570183802558</updated>
-      <workItem from="1570183803923" duration="12262000" />
+      <workItem from="1570183803923" duration="12511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12262000" />
+    <option name="totallyTimeSpent" value="12511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,30 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MessageBroker/Implementation/Implementation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1570382220257" expanded="true" signature="6:221" ph="..." />
-            <marker date="1570382220257" expanded="true" signature="261:2973" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="374:2971" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="614:783" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="922:1130" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="996:1106" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="1185:1241" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="1318:1522" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="1573:1656" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="1712:1839" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="1897:1990" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="2035:2143" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="2199:2587" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="2451:2548" ph="{...}" />
-            <marker date="1570382220257" expanded="true" signature="2656:2965" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MessageBroker/~/Desktop/log.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -707,6 +702,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageBroker/Implementation/Implementation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1570382220257" expanded="true" signature="6:221" ph="..." />
+            <marker date="1570382220257" expanded="true" signature="261:2973" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="374:2971" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="614:783" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="922:1130" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="996:1106" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1185:1241" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1318:1522" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1573:1656" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1712:1839" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="1897:1990" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2035:2143" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2199:2587" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2451:2548" ph="{...}" />
+            <marker date="1570382220257" expanded="true" signature="2656:2965" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
