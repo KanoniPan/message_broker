@@ -1,0 +1,21 @@
+<div>
+  <div *ngFor="let message of messages">
+      <p>{{message}}</p>
+  </div>
+
+  <label for="topicInput"></label>
+  <input #topicInput id="topicInput">
+
+  <button (click)="onTopicSubmit(topicInput.value)" [disabled]="!isReady">
+      Submit
+  </button>
+</div>
+
+<div>
+  <label for="messageInput"></label>
+  <input #messageInput id="messageInput">
+
+  <button (click)="onMessageSubmit(messageInput.value)" [disabled]="!isReady || !topic">
+      Submit
+  </button>
+</div>
